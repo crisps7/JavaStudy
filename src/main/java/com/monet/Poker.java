@@ -8,5 +8,7 @@ public class Poker {
         System.out.println("haha");
         System.out.println("hahahahahaha");
         System.out.println("master test");
+        System.out.println("hot-fix test");
+        System.out.println("hot-fix test");
     }
 }
